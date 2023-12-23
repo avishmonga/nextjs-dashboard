@@ -1,3 +1,5 @@
-export default () => {
-  return <p>Hello dashboard page</p>;
+const Dashboard = () => {
+  <p>Dashboard Page</p>;
 };
+
+export default Dashboard;

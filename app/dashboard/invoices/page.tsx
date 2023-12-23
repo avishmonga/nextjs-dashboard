@@ -1,3 +1,5 @@
-export default () => {
-  return <p>Invoices page</p>;
+const Invoices = () => {
+  return <p>Invoices Page</p>;
 };
+
+export default Invoices;

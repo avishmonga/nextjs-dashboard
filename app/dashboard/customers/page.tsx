@@ -1,3 +1,5 @@
-export default () => {
-  return <p>Customers page</p>;
+const Customers = () => {
+  return <p>Customers Page</p>;
 };
+
+export default Customers;
